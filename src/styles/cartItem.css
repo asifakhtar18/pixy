@@ -1,0 +1,22 @@
+.cart-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+
+}
+
+.delete-btn{
+    padding-right: 30px;
+}
+
+p{
+    font-size: 20px;
+    padding: 10px;
+}
+

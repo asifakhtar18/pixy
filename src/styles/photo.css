@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+}
+
+.image-grid {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 0;
+    
+  }
+  
+  .image-container {
+    margin: 20px;
+  }
+
+  @media (max-width: 1000px) {
+    .image-grid {
+        display: flex;
+        justify-content: center;
+        width:90% ;
+    }
+
+    
+  }
+  
+  
+  @media (max-width: 767px) {
+    .image-container {
+      margin: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .image-grid {
+      justify-content: center;
+    }
+    
+    .image-container {
+      margin: 5px;
+    }
+  }
+  

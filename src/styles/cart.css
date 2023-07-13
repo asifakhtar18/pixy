@@ -1,0 +1,22 @@
+
+
+h2{
+    padding: 15px;
+    text-align: center;
+}
+
+.total{
+    text-align: end;
+    color: rgb(6, 241, 6);
+}
+
+.order-btn{
+    text-align: center;
+    
+}
+
+button{
+    border: none;
+    padding: 10px;
+    background-color:rgb(6, 241, 6) ;
+}
