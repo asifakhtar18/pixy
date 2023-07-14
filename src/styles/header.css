@@ -23,12 +23,12 @@ body{
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
     padding: 10px;
-    color:black;
+    color:#212529;
 }
 
-.cart{
+.cart{  
     padding-right: 10px;
-    color: black;
+    color: #212529;
 }
 
 
